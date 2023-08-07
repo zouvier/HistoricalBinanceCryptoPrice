@@ -98,5 +98,5 @@ All token pairs are formed by USDT and the supported tokens listed below:
 (Note: The table above is truncated for brevity. Please include all the tokens in the actual README.)
 
 ## Credits
-The dataset was sourced from [this Kaggle link](https://www.kaggle.com/datasets/phucthaiv02/crypto-currency-data). I did not gather or refine the data; all credits go to [phucthaiv02](https://www.kaggle.com/phucthaiv02).
+The dataset was sourced from [this Kaggle link](https://www.kaggle.com/datasets/phucthaiv02/crypto-currency-data). I did not gather or refine the data. all i did was convert the data to a CSV file; all credits go to [phucthaiv02](https://www.kaggle.com/phucthaiv02).
 
